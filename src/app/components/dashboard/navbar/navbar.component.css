@@ -1,0 +1,19 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+.custom-bunny {
+  background-image: url('https://img.icons8.com/?size=512&id=95591&format=png');
+  background-size: cover;
+}
+.custom-heart {
+  background-image: url('https://img.icons8.com/?size=512&id=42263&format=png');
+  background-size: cover;
+}
+.custom-reports {
+  background-image: url('https://img.icons8.com/?size=512&id=URGRJqBefWOx&format=png');
+  background-size: cover;
+}
+.custom-out {
+  background-image: url('https://img.icons8.com/?size=512&id=45636&format=png');
+  background-size: cover;
+}
